@@ -2,3 +2,7 @@
 .Rhistory
 .RData
 .Ruserdata
+
+#Data to be ignored
+data/
+
