@@ -4,5 +4,6 @@
 .Ruserdata
 
 #Data to be ignored
-data/
+data
+
 
